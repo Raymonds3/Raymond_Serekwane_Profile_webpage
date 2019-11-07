@@ -1,0 +1,41 @@
+
+.experience{
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+.experience-wrapper{
+    margin-top:30px;
+}
+.experience-content{
+    background: rgba(79, 50, 68, .7);
+    padding:60px 40px;
+    color:#fff;
+}
+.experience-content h4{
+    color:#fff;
+    text-transform:uppercase;
+    font-size:26px;
+    font-family: "Raleway Webfont";
+    font-weight:600;
+    margin-bottom:50px;
+}
+.experience-content .content-details h5{
+    color:#fff;
+    font-size:18px;
+}
+.experience-content .content-details h6{
+    color:#ecf0f2;
+    font-size:16px;
+}
+.experience-content .content-details p{
+    color:#ecf0f2;
+}
+.experience-content .content-details.content-border{
+    border-bottom:1px solid #dadada;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
